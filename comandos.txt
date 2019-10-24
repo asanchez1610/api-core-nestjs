@@ -1,0 +1,17 @@
+Para nest js Api
+- Database Mongo
+	- npm install --save @nestjs/mongoose mongoose
+- Env
+	- npm i --save dotenv
+	- npm i --save-dev @types/dotenv
+- Bcrypt
+	- npm i bcrypt
+- Authentication
+	- npm install --save @nestjs/passport passport passport-local
+	- npm install --save-dev @types/passport-local	
+	- npm install @nestjs/jwt passport-jwt
+	- npm install @types/passport-jwt --save-dev
+- Helmet
+	- npm i --save helmet
+- Open Api
+	- npm install --save @nestjs/swagger swagger-ui-express	
